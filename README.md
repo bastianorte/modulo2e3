@@ -1,22 +1,20 @@
-# Evaluacion m2 t2
+# Evaluacion m2 t3
 
 ## 📖 Descripción
-Continuando con el desarrollo del sitio web del hospital, ahora nos centraremos en mejorar la
-modularización de estilos y en asegurar que el sitio sea completamente responsivo. Esto
-implica la implementación de una metodología como BEM, el uso de SASS para estructurar el
-CSS de manera eficiente, y la aplicación de media queries para lograr una correcta
-adaptabilidad en dispositivos de diferentes tamaños.
-
+En esta fase del proyecto, el enfoque estará en la implementación del preprocesador SASS
+para gestionar los estilos de forma más eficiente, modularizando correctamente el código y
+utilizando metodologías como BEM para organizar los estilos. Además, se integrará el
+framework Bootstrap para mejorar la estructura visual y la responsividad del sitio web del
+hospital.
 
 Para este proyecto use el patron de organizacion 7-1 dividiendo una carpeta scss(sass) en 7 carpetas(Abtracts, Component, Core, layout, pages, themes, vendor) y el archivo styles.scss
-
 
 Para la responsividad de este proyecto use Media Queries y Bootstrap
 
 
 ## 👁️ Acceso al proyecto
   Puedes visualizar la pagina en el siguiente link:
-  https://bastianorte.github.io/modulo2e2/index.html
+  https://bastianorte.github.io/modulo2e3/index.html
 
 ## 📁 Proyecto 
 ```
