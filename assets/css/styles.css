@@ -11881,6 +11881,20 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
     font-size: 1rem;
     font-weight: 400;
   }
+  .banner_container button {
+    background-color: #1b264f;
+    border: 10px;
+    border: 0px;
+    padding: 10px;
+    color: #cce0ed;
+    margin-top: 5px;
+    border-radius: 1rem;
+    width: 100%;
+    font-size: 1rem;
+  }
+  .banner_container button:hover {
+    background-color: #648ece;
+  }
 }
 @media (min-width: 781px) and (max-width: 1280px) {
   .banner {
@@ -11898,6 +11912,20 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
     font-size: 1.5em;
     font-weight: 400;
   }
+  .banner_container button {
+    background-color: #1b264f;
+    border: 10px;
+    border: 0px;
+    padding: 10px;
+    color: #cce0ed;
+    margin-top: 5px;
+    border-radius: 1rem;
+    width: 500px;
+    font-size: 1.2rem;
+  }
+  .banner_container button:hover {
+    background-color: #648ece;
+  }
 }
 @media (min-width: 1281px) {
   .banner {
@@ -11914,6 +11942,20 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
   .banner_container p {
     font-size: 1.5rem;
     font-weight: 400;
+  }
+  .banner_container button {
+    background-color: #1b264f;
+    border: 10px;
+    border: 0px;
+    padding: 10px;
+    color: #cce0ed;
+    margin-top: 5px;
+    border-radius: 1rem;
+    width: 500px;
+    font-size: 1.2rem;
+  }
+  .banner_container button:hover {
+    background-color: #648ece;
   }
 }
 .footer {
@@ -12029,13 +12071,13 @@ body, h1, .h1, h2, .h2, h3, .h3, p, a {
 .form_botton button {
   background-color: #1b264f;
   border: 10px;
-  width: 100%;
   border: 0px;
   padding: 10px;
-  font-size: 14px;
   color: #cce0ed;
   margin-top: 5px;
   border-radius: 1rem;
+  font-size: 1rem;
+  width: 100%;
 }
 .form_botton button:hover {
   background-color: #648ece;
