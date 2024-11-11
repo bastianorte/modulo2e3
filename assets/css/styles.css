@@ -12165,6 +12165,10 @@ form ::placeholder {
   content: "-";
 }
 
+.equipo_col img {
+  filter: sepia(100%);
+}
+
 @media (max-width: 780px) {
   /* … */
 }
@@ -12200,6 +12204,10 @@ form ::placeholder {
 }
 .testimonios_row {
   padding-top: 1rem;
+}
+
+.testimonios_col img {
+  filter: sepia(100%);
 }
 
 @media (max-width: 780px) {
